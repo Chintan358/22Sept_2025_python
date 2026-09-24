@@ -21,10 +21,16 @@ print("Hello python")"""
 
 # print("python","java","php","node",sep=" | ")
 
-name = "tops"
-email = "tops@gmail.com"
+# name = "tops"
+# email = "tops@gmail.com"
 # print("my name is {1} and email is {0}".format(name,email))
 # print(f"my name is {name} and email is {email}")
 
 
-print(r"\\Hel\blo \\\" Py\tthon\\")
+# print(r"\\Hel\blo \\\" Py\tthon\\")
+
+# myFirstName = "abc"
+
+
+# a = float(input("enter a : "))
+# print(type(a))
