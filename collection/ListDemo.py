@@ -58,5 +58,44 @@ l = [1,2,3,4,5,6,7,8,9]
 # print(k)
 
 
+sub = ["python","java","php","android","node"]
+# k = []
+# for i in sub:
+#     if i.startswith("p"):
+#         k.append(i)
 
-# sub = ["python","java","php","android","node"]
+# k = [i for i in sub if i.startswith("p")]
+# k = [i for i in sub if "a" in i]
+# print(k)
+
+
+#sorting
+# i = [10,20,58,46,12,36,98,74,52]
+# i.sort()
+# i.sort(reverse=True)
+# i.reverse()
+
+# k = sorted(i)
+
+# print(k)
+
+
+#copy
+
+a = [10,20,30,40,20]
+
+# b  =a.copy()
+# b = list(a)
+# b = a[::]
+b  = a
+# b.append(500)
+
+
+# print(a)
+# print(b)
+
+# print(a.count(20))
+# print(a.index(20))
+
+for i in [10,20,30,54]:
+    print(i)
