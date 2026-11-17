@@ -57,3 +57,10 @@ s = {10,20,30,40,50,60,70,80}
 # print(b.issubset(a))
 # print(a.issuperset(b))
 # print(a.isdisjoint(b))
+
+
+a = (10,20)
+b = (10,20)
+
+print(a==b)
+print(a is b)

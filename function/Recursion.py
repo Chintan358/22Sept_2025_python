@@ -17,5 +17,5 @@ def fact(n):
 print(fact(5))
     
     
-    
+
     
